@@ -7,11 +7,16 @@ This tutorial is based on Windows Operating Systems
 3. Scroll until you see Docker Desktop
 4. Choose based on your OS
 5. Download the docker
-
-![Screenshot (280)](Users\Daniel Hakim\Documents\unilyfe\OS\gp\Screenshot (280).png)
-
-7. Click on the docker desktop exe and run it
-8. Install it
+6. Click on the docker desktop exe and run it
+7. Install it
+8. ![](gp/Screenshot%20(280).png)
 9. Wait untill the installation finished
-10. Click the close and restart
-11. Tick accept the terms and agreements
+10. ![](gp/Screenshot%20(281).png)
+11. Click the close and restart
+12. ![](gp/Screenshot%20(282).png)
+13. Tick accept the terms and agreements
+14. ![](gp/Screenshot%20(283).png)
+15. Click the accept button
+16. You are noe inside the docker desktop
+17. ![](gp/Screenshot%20(284).png)
+18. download the WSL2 linus kernel updte package whether x64 or x32 from https://docs.microsoft.com/en-gb/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
