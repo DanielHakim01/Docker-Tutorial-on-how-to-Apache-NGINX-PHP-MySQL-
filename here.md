@@ -20,3 +20,10 @@ This tutorial is based on Windows Operating Systems
 16. You are noe inside the docker desktop
 17. ![](gp/Screenshot%20(284).png)
 18. download the WSL2 linus kernel updte package whether x64 or x32 from https://docs.microsoft.com/en-gb/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
+19. If not sure whcih bits open cmd and paste (systeminfo | find "System Type")
+20. Update the linux kernel
+21. Restart the Docker Desktop
+22. Follow the tutorial steps given
+23. ![](gp/Screenshot%20(286).png)
+24. ![](gp/Screenshot%20(287).png)
+25. ![](gp/Screenshot%20(288).png)
