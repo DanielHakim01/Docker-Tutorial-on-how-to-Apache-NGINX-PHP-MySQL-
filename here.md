@@ -2,4 +2,4 @@
 
 This tutorial is based on Windows Operating Systems
 
-First go to the [Docker](docker.com) website
+First go to the Docker [docker.com](https://www.docker.com/) website
