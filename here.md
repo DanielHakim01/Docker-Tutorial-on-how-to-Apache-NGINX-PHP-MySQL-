@@ -27,3 +27,4 @@ This tutorial is based on Windows Operating Systems
 23. ![](gp/Screenshot%20(286).png)
 24. ![](gp/Screenshot%20(287).png)
 25. ![](gp/Screenshot%20(288).png)
+26. You are now successfully downloaded Docker Desktop
