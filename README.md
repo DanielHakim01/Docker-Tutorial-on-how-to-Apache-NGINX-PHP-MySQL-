@@ -42,6 +42,5 @@ Docker is a lightweight and quick application. It offers a practical, cost-effec
 
 #### Tutorial
 * Click [here](here.md) to see how to install Docker Deskstop
-* Click [Apache](Apache.md) to see how to use Apache in Docker container
 * Click [MySQL](MySQL.md) to see how to use MySQL in Docker container
-* Click [PHP](PHP.md) to see how to use PHP in Docker container
+* Click [Tutorial](PHP.md) to see tutorial to deploy a complete Apache, PHP, MYSQL and PHPMYADMIN service
