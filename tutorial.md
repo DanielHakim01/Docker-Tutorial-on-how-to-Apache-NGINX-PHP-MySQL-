@@ -29,6 +29,9 @@ This is the example of  docker-compose.yml file.
 ![](gp/403%20Forbidden%20-%20Google%20Chrome%2018_6_2022%206_08_44%20PM.png)
 9. Create index.php file in php/src directory and echo some coding to make sure that we are in a right track and refresh the browser.
   ![](gp/403%20Forbidden%20-%20Google%20Chrome%2018_6_2022%206_10_47%20PM.png)
-10.
+10.Let’s add the MySQL service into the docker-compose.yml file. To setup MySQL, we need to customize some environment, such as:
+-Password authentication. To use and access a MySQL server, you need to set authentication environments that will allow you to access the defined MySQL server and its services, such as a database. We will use MYSQL_USER: MYSQL_USER and MYSQL_PASSWORD: MYSQL_PASSWORD to connect to MySQL and access the MYSQL_DATABASE: MYSQL_DATABASE.
+A restart policy set to restart: always. This restarts the service whenever any defined configuration changes.
+-We need to add some MySQL support tools inside the PHP container for the two services (db and php-apache) to work correctly. This tool includes mysqli.
 
 
